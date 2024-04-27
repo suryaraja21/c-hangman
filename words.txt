@@ -1,0 +1,7 @@
+escape
+bone
+ladder
+cheese
+run
+jump
+
